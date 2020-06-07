@@ -19,4 +19,13 @@ INSERT INTO users (name, age) VALUES ('Lucas',35);
 INSERT INTO users (name, age) VALUES ('Mason', 37);
 INSERT INTO users (name, age) VALUES ('Logan', 38);
 
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('Kitchen_Equipment', 'Equipment', 520000, 2020-07-06, 2020-06-07);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('painting', 'Repairs', 2500, 2020-07-07, 2020-06-08);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('dinning_chairs', 'Furniture', 7000, 2020-19-07, 2020-31-07);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('tables', 'Furniture', 1000, 2020-07-06, 2020-06-07);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('Serving_Table', 'Equipment', 15000, 2020-15-06, 2020-25-07);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('flowers', 'Landscape', 2000, 2020-07-11, 2020-06-12);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('signage', 'Landscape', 10000, 2020-30-06, 2020-06-07);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('Food', 'Supplies', 30000, 2020-07-06, 2020-06-07);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('software', 'Technology', 15000, 2020-07-06, 2020-06-07);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('Light_Fixture', 'Repairs', 2000, 2020-07-06, 2020-06-07);
