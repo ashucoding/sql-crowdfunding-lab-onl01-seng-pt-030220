@@ -1,6 +1,6 @@
-INSERT INTO users VALUES ('Emma', 25);
-INSERT INTO users VALUES ('Olivia', 27);
-INSERT INTO users VALUES ('Ava', 29);
+INSERT INTO users VALUES (1,'Emma', 25);
+INSERT INTO users VALUES (2,'Olivia', 27);
+INSERT INTO users VALUES (3,'Ava', 29);
 INSERT INTO users VALUES ('Isabelle', 30);
 INSERT INTO users VALUES ('Sophia', 26);
 INSERT INTO users VALUES ('Charlotte', 23);
